@@ -6,9 +6,7 @@
 **Asignatura:** Herramientas de la Programación Aplicada III (.NET)  
 **Docente:** Ing. Irina Fong  
 **Grupo:** 1IL133  
-## Información del Estudiante
-**Nombre:** Maria Townshend
-**Grupo:** 1IL133
+**Nombre de estudiante:** Maria Townshend
 **Cédula:** 8-1027-1450
 
 ## Fecha de Ejecución: 08/11/26
