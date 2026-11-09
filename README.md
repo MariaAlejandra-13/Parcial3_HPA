@@ -6,15 +6,13 @@
 **Asignatura:** Herramientas de la Programación Aplicada III (.NET)  
 **Docente:** Ing. Irina Fong  
 **Grupo:** 1IL133  
+## Información del Estudiante
+**Nombre:** Maria Townshend
+**Grupo:** 1IL133
+**Cédula:** 8-1027-1450
 
 ## Fecha de Ejecución: 08/11/26
 
-## Objetivos
-
-- Aplicar abstracción, herencia y polimorfismo para calcular el área y el perímetro de distintas figuras geométricas.
-- Convertir un objeto de C# a una cadena JSON utilizando `Newtonsoft.Json`.
-- Generar y verificar hashes de contraseñas con `BCrypt.Net-Next`.
-- Registrar en SQL Server los intentos de acceso y mostrar el nombre completo del usuario cuando el inicio de sesión sea exitoso.
 
 ## Introducción
 
@@ -134,10 +132,3 @@ Con la cuenta ficticia `Maria13`, el formulario muestra **«Bienvenido al sistem
 | El proyecto Windows Forms compilaba con C# 7.3 y generaba errores con `using var` y `object?` | Se utilizaron bloques `using (...)` y se ajustaron las declaraciones a la sintaxis de C# 7.3 |
 | El proyecto Windows Forms no reconocía `Microsoft.Data.SqlClient` | Se adaptó la clase `AccesoDatos` para utilizar `System.Data.SqlClient` |
 | Visual Studio no reconocía `BCrypt` al compilar el formulario | Se agregó el paquete `BCrypt.Net-Next` al proyecto Windows Forms |
-
-
-## Información del Estudiante
-
-**Nombre:** Maria Townshend
-**Grupo:** 1IL133
-**Cédula:** 8-1027-1450
